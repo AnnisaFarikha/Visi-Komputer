@@ -29,6 +29,8 @@ Format file menggunakan **Jupyter Notebook (`.ipynb`)** agar mudah dijalankan da
 Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 
 - Klasifikasi Gambar
+- Teknik Regresi Gambar
+- Teknik Analisis Pose dan Geometri Tubuh
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
